@@ -1,1 +1,1 @@
-web: node my_project/index.js
+web: node sites/my_project/index.js
